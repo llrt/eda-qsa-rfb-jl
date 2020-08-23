@@ -679,6 +679,12 @@ git-tree-sha1 = "b3405086eb6a974eba1958923d46bc0e1c2d2d63"
 uuid = "90014a1f-27ba-587c-ab20-58faa44d9150"
 version = "0.10.0"
 
+[[PackageCompiler]]
+deps = ["Libdl", "Pkg", "UUIDs"]
+git-tree-sha1 = "98aa9c653e1dc3473bb5050caf8501293db9eee1"
+uuid = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
+version = "1.2.1"
+
 [[Pango_jll]]
 deps = ["Cairo_jll", "Fontconfig_jll", "FreeType2_jll", "FriBidi_jll", "Glib_jll", "HarfBuzz_jll", "Libdl", "Pkg"]
 git-tree-sha1 = "cd19789f20bde5d45e96a7e937db9a6a024412e6"
